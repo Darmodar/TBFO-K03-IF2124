@@ -12,4 +12,4 @@ Program dapat memvalidasi input berupa program JavaScript. Jika syntax tidak val
 1. Pastikan komputer Anda telah terinstall python
 2. Clone repository ini
 3. Ubah direktori ke folder repo
-4. Run program dengan mengetik "py jparser.py <namafile.js>"
+4. Run program dengan mengetik "py javascriptparser.py <namafile.js>"
